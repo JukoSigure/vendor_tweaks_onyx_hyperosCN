@@ -7,7 +7,7 @@
 
 • Updated Qualcomm Adreno (TM) Proprietary Binaries
 
-This repository provides information about the Qualcomm Adreno (TM) GPU renderer version: OpenGL ES 3.2, Vulkan 1.3.
+This repository provides information about the Qualcomm Adreno (TM) GPU renderer version: OpenGL ES 3.2, Vulkan 1.4
 
 - OpenGL ES Version: OpenGL V@0842.21
 - Vulkan Version: Vulkan 512.842.21 git@114a4db556 (API upstreaming up to 1.4.295)
