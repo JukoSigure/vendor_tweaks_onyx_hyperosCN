@@ -32,7 +32,7 @@ perfboostselection.xml
 | 688 | 128-SVS  |
 | 606 | 64-LOW-SVS |
 | 510 | 48-MIN-L1  |
-| 443 | 16-NOM |
+| 443 | 16-RETENTION |
 | 362 | 16-RETENTION|
 | 264 | 16-RETENTION |
 | 138 | 16-RETENTION | 
