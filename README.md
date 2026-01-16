@@ -1,4 +1,4 @@
-# Onyx HyperOS 3 CN Vendor Tweaks
+# Onyx HyperOS 3 CN Vendor Tweaks 3.0.9.0
 
 # What Changed?
 • Updated Qualcomm Adreno (TM) Proprietary Binaries
