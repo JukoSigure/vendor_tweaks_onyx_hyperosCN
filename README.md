@@ -1,6 +1,10 @@
 # Onyx HyperOS 3 CN Vendor Tweaks 3.0.9.0
 
 # What Changed?
+
+• Adjusted vendor props
+- dalvik for 8/12gb of ram
+
 • Updated Qualcomm Adreno (TM) Proprietary Binaries
 
 This repository provides information about the Qualcomm Adreno (TM) GPU renderer version: OpenGL ES 3.2, Vulkan 1.3.
