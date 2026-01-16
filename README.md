@@ -1,7 +1,7 @@
 # Onyx HyperOS 3 CN Vendor Tweaks
 
-
-# Updated Qualcomm Adreno (TM) Proprietary Binaries
+# What Changed?
+• Updated Qualcomm Adreno (TM) Proprietary Binaries
 
 This repository provides information about the Qualcomm Adreno (TM) GPU renderer version: OpenGL ES 3.2, Vulkan 1.3.
 
@@ -11,6 +11,8 @@ This repository provides information about the Qualcomm Adreno (TM) GPU renderer
 
 - [Adreno - Wikipedia](https://en.wikipedia.org/wiki/Adreno)
 - [Qualcomm Developer Network](https://developer.qualcomm.com/)
+
+• Tuned Qualcomm performance boost profiles
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
